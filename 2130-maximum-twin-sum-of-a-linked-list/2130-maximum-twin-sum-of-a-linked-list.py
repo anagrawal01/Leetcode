@@ -5,15 +5,18 @@
 #         self.next = next
 class Solution:
     def pairSum(self, head: Optional[ListNode]) -> int:
-        aadha= []
-        hh =fah= head
-        while fah and fah.next:
-            aadha.append(hh.val)
-            hh=hh.next
-            fah=fah.next.next
-        quack = 0
-        while hh:
-            quack= max(quack, aadha.pop() + hh.val)
-            hh = hh.next
-        return quack
-        
+        if not head: return None
+        curr = node = head
+        hold = []
+        while node:
+            node = node.next
+            if node:
+                node = node.next
+                hold.append(curr.val)
+                curr = curr.next
+        maxVal = -1
+        for i in hold[::-1]:
+            i += curr.val
+            curr = curr.next
+            if i > maxVal: maxVal = i
+        return maxVal
