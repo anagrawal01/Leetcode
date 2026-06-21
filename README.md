@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/anagrawal01/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anagrawal01/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/anagrawal01/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3161-block-placement-queries](https://github.com/anagrawal01/Leetcode/tree/main/3161-block-placement-queries/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/anagrawal01/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/anagrawal01/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anagrawal01/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3161-block-placement-queries](https://github.com/anagrawal01/Leetcode/tree/main/3161-block-placement-queries/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anagrawal01/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/anagrawal01/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Greedy
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3161-block-placement-queries](https://github.com/anagrawal01/Leetcode/tree/main/3161-block-placement-queries/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/anagrawal01/Leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -129,4 +132,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/anagrawal01/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3161-block-placement-queries](https://github.com/anagrawal01/Leetcode/tree/main/3161-block-placement-queries/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3161-block-placement-queries](https://github.com/anagrawal01/Leetcode/tree/main/3161-block-placement-queries/) | Hard |
 <!---LeetCode Topics End-->
