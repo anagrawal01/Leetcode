@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anagrawal01/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/anagrawal01/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anagrawal01/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anagrawal01/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anagrawal01/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/anagrawal01/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anagrawal01/Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/anagrawal01/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/anagrawal01/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anagrawal01/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/anagrawal01/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/anagrawal01/Leetcode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/anagrawal01/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
