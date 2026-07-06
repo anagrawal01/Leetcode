@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/anagrawal01/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/anagrawal01/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0739-daily-temperatures](https://github.com/anagrawal01/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/anagrawal01/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/anagrawal01/Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/anagrawal01/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anagrawal01/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/anagrawal01/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/anagrawal01/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/anagrawal01/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/anagrawal01/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anagrawal01/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anagrawal01/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
