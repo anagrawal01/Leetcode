@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/anagrawal01/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/anagrawal01/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/anagrawal01/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anagrawal01/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anagrawal01/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/anagrawal01/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/anagrawal01/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anagrawal01/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anagrawal01/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/anagrawal01/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/anagrawal01/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/anagrawal01/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -275,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/anagrawal01/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/anagrawal01/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
