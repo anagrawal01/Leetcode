@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/anagrawal01/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/anagrawal01/Leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0258-add-digits](https://github.com/anagrawal01/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0486-predict-the-winner](https://github.com/anagrawal01/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/anagrawal01/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/anagrawal01/Leetcode/tree/main/0877-stone-game/) | Medium |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/anagrawal01/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [1260-shift-2d-grid](https://github.com/anagrawal01/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anagrawal01/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/anagrawal01/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -327,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/anagrawal01/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anagrawal01/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/anagrawal01/Leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anagrawal01/Leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
